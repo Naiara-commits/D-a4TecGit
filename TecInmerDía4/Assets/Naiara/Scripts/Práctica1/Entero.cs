@@ -25,9 +25,9 @@ public class Entero : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Input.GetKeyDown(KeyCode.E){
-            //cuboPrefab = GameObject.CreatePrimitive(Primitive)
-        }
+        /*Input.GetKeyDown(KeyCode.E){
+            cuboPrefab = GameObject.CreatePrimitive(Primitive)
+        }*/
         
 
     }
